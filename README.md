@@ -10,7 +10,9 @@ A modern, minimalist rebranding concept of Apple's official website using **Next
 
 ## 📸 Preview
 
-![Screenshot](public/preview.png) <!-- Add your actual screenshot here -->
+![Image](https://github.com/user-attachments/assets/46749386-fdea-4e68-a538-caa24829d5e1)
+
+![Image](https://github.com/user-attachments/assets/d19e9725-2a77-4264-a445-aff33b01ba0c)
 
 ## 🧰 Features
 
